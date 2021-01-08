@@ -1,2 +1,2 @@
-# -Jiun-Ting-Tree-Visualization-Amazon-Product-Categories
+#Tree-Visualization-Amazon-Product-Categories
 An interactive tree visualization
