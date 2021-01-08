@@ -1,4 +1,4 @@
-* Tree-Visualization-Amazon-Product-Categories
+## Tree-Visualization-Amazon-Product-Categories
 An interactive tree visualization
 
 * README.pdf: Analysis of some visualization examples with different size
